@@ -12,4 +12,4 @@ print("this is Jenkins class")
 print("bye")
 
 for i in range (7):
-    print "ciao"
+    print ("ciao")
