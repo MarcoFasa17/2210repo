@@ -7,3 +7,6 @@ def tables():
         print()
 
 tables()
+print("hello")
+print("this is Jenkins class")
+print("bye")
